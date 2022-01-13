@@ -35,7 +35,7 @@ Antes de partir para a automação, estas são as tarefas que precisam ser feita
 
 ![tabela-desalinhada](https://user-images.githubusercontent.com/89229665/149392298-6c890164-1b0b-4c12-b97c-6da7555b12c7.png)
 
-Após essas etapas, os notebooks postados neste repositório entram em ação!
+Após esses procedimentos, os notebooks postados neste repositório entram em ação!
 
 ## O que você vai encontrar nesse repositório?
 
@@ -43,9 +43,9 @@ Após essas etapas, os notebooks postados neste repositório entram em ação!
 
 O primeiro notebook, chamado de *"Gera-planilha-matriz"*, faz a limpeza e a organização dos dados. Ele recebe como entrada 3 arquivos xlsx: um com postagens do Facebook, outro com postagens do Instagram e o terceiro com postagens do Twitter. Todos eles previamente etiquetados e classificados, como mencionado anteriormente. O resultado final do notebook *"Gera-planilha-matriz"* é uma planilha que junta as informações dos três arquivos e faz um recorte mantendo apenas as colunas que possuem as métricas de interesse da organização.
 
-O segundo notebook, chamado de *Escreve-sub_planilhas*, cria planilhas menores a partir da planilha_matriz. Todas essas planilhas menores são escritas automaticamente, uma em baixo da outra, em uma das abas (worksheets) [desta planilha do Google spreadsheet](https://docs.google.com/spreadsheets/d/1jMikjV_8-L_9SvE4jn49ZxWAT5yTDD9p48oPvYk-AIM/edit#gid=37916203). Até o momento foram geradas planilhas com informações de agosto de 2021, setembro de 2021 e outubro de 2021. 
+O segundo notebook, chamado de *Escreve-sub_planilhas*, cria planilhas menores a partir da planilha_matriz. Todas essas planilhas menores são escritas automaticamente, uma em baixo da outra, em uma das abas (worksheets) [desta planilha do Google spreadsheet](https://docs.google.com/spreadsheets/d/1jMikjV_8-L_9SvE4jn49ZxWAT5yTDD9p48oPvYk-AIM/edit#gid=37916203). Até o momento foram geradas planilhas com informações de agosto de 2021, setembro de 2021 e outubro de 2021. O filtro para criar cada sub-planilha são os itens da coluna "classificação". 
 
-Gerada a planilha de cada mês, espera-se que a pessoa responsável por realizar o relatório ofical de mídias sociais possa utilizá-la para extrair as informções necessárias de forma mais célere.
+Gerados os dados de cada mês, espera-se que a pessoa responsável por realizar o relatório ofical de mídias sociais possa utilizá-los para extrair as informações necessárias de forma mais célere.
 
 ## 📚 Bibliotecas utilizadas
 
