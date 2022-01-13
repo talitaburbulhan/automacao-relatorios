@@ -33,7 +33,7 @@ Antes de partir para a automação, estas são as tarefas que precisam ser feita
 
 ![face-buffer](https://user-images.githubusercontent.com/89229665/149389692-27af644d-7dc5-48c2-bff0-08e76fc64b8f.png)
 
-🏷 Tagueamento. Em cada uma das tabelas são criadas duas novas colunas, uma de etiqueta e outra de classificação. A de etiqueta serve para especificar cada um dos posts e a de classificação para indicar em qual local da planilha oficial a postagem deve estar alocada.
+🏷 Tagueamento. Em cada uma das tabelas são criadas duas novas colunas, uma de etiqueta e outra de classificação. A de etiqueta serve para especificar cada um dos posts e a de classificação, chamada "item da planilha", para indicar em qual local da planilha oficial a postagem deve estar alocada.
 
 ![face-buffer-etiquetado](https://user-images.githubusercontent.com/89229665/149391720-54858db8-b007-4952-8f5f-a3f29a5903bc.png)
 
