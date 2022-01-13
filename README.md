@@ -59,5 +59,5 @@ As principais bibliotecas utilizadas para desevolver esse projeto foram Pandas e
 
 ## Tchau, tchau!
 
-Este projeto é o trabalho final desenvolvido para a 1ª formação do Master de Jornalismo de Dados, Automação e Data Storytelling do Insper. Fica aqui rgistrado, um agradecimento especial para Turicas, Pedro Burgos e Cuducos, pela paciência, pela paciência mais vez e pela ajuda no desenvolvimentos dos códigos. 
+Este projeto é o trabalho final desenvolvido para a 1ª formação do Master de Jornalismo de Dados, Automação e Data Storytelling do Insper. Fica aqui registrado, um agradecimento especial ao Turicas, Pedro Burgos e Cuducos, pela paciência, pela paciência mais vez e pela ajuda no desenvolvimentos dos códigos. 
 
