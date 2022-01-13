@@ -23,7 +23,7 @@ Outra fragilidade do projeto é que nem todas as mídias foram contempladas, fic
 
 Antes de partir para a automação, estas são as tarefas que precisam ser feitas previamente para que os notebooks possam rodar:
 
-📈 Extração das bases na platforma Buffer. Para cada mídia (Facebook, Instagram, Twitter) é gerada uma tabela, como a desta imagem:
+📈 Extração das bases na plataforma Buffer. Para cada mídia (Facebook, Instagram, Twitter) é gerada uma tabela, como a desta imagem:
 
 ![face-buffer](https://user-images.githubusercontent.com/89229665/149389692-27af644d-7dc5-48c2-bff0-08e76fc64b8f.png)
 
