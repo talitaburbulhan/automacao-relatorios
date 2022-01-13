@@ -17,7 +17,7 @@ Esse repositório contribui em uma única etapa de um processo mais amplo. A ext
 
 Outra fragilidade do projeto é que nem todas as mídias foram contempladas, ficaram de fora as postagens do Youtube e do site. A automação é realizada com dados extraídos da Buffer, uma plataforma que gerencia os perfis da organização no Facebook, no Instagram e no Twitter.
 
-👉🏼 EM SÍNTESE: sabe aqueles 10 minutinhos que citei ali em cima? O resultado deles, na prática, é um compilado no Google spreadsheet das postagens mensais do Face, Insta e Twitter, organizado de acordo com parâmetros do relatório oficial de mídias sociais, enviado para a entidade financiadora da minha organização. 
+👉🏼 EM SÍNTESE: sabe aqueles 10 minutinhos que citei ali em cima? O resultado deles, na prática, é um compilado no Google spreadsheet das postagens mensais do Face, Insta e Twitter, estruturado de acordo com parâmetros do relatório oficial de mídias sociais, enviado para a entidade que financia os projetos da minha organização. 
 
 ## Tarefas manuais que precedem a automação 
 
