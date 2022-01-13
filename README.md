@@ -45,11 +45,13 @@ O primeiro notebook, chamado de *"Gera-planilha-matriz"*, faz a limpeza e a orga
 
 O segundo notebook, chamado de *Escreve-sub_planilhas*, cria planilhas menores a partir da planilha_matriz. Todas essas planilhas menores são escritas automaticamente, uma em baixo da outra, em uma das abas (worksheets) [desta planilha do Google spreadsheet](https://docs.google.com/spreadsheets/d/1jMikjV_8-L_9SvE4jn49ZxWAT5yTDD9p48oPvYk-AIM/edit#gid=37916203). Até o momento foram geradas planilhas com informações de agosto de 2021, setembro de 2021 e outubro de 2021. 
 
-## Bibliotecas utilizadas
+Gerada a planilha de cada mês, espera-se que a pessoa responsável por realizar o relatório ofical de mídias sociais possa utilizá-la para extrair as informções necessárias de forma mais célere.
+
+## 📚 Bibliotecas utilizadas
 
 As principais bibliotecas utilizadas para desevolver esse projeto foram Pandas e GSpread. 
 
-## 
+## Tchau, tchau!
 
-Este projeto é o trabalho final desenvolvido para a primeira formação do Master de Jornalismo de Dados, Automação e Data Storytelling do Insper. Fica aqui rgistrado, um agradecimento especial para Turicas, Pedro Burgos e Cuducos, pela paciência, pela paciência mais vez e pela ajuda no desenvolvimentos dos códigos. 
+Este projeto é o trabalho final desenvolvido para a 1ª formação do Master de Jornalismo de Dados, Automação e Data Storytelling do Insper. Fica aqui rgistrado, um agradecimento especial para Turicas, Pedro Burgos e Cuducos, pela paciência, pela paciência mais vez e pela ajuda no desenvolvimentos dos códigos. 
 
