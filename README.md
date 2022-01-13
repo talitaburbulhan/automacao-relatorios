@@ -35,13 +35,13 @@ Antes de partir para a automação, estas são as tarefas que precisam ser feita
 
 ![tabela-desalinhada](https://user-images.githubusercontent.com/89229665/149392298-6c890164-1b0b-4c12-b97c-6da7555b12c7.png)
 
-Após essas etapas, chega a hora em que a automação 
+Após essas etapas, os notebooks postados neste repositório entram em ação.
 
 ## O que você vai encontrar nesse repositório?
 
 ✌🏼 Dois notebooks comentados que explicam em detalhes os trechos de cada código e as escolhas tomadas. 
 
-O primeiro notebook, chamado de *"Gera-planilha-matriz"*, recebe como entrada 3 arquivos xlsx: um com postagens do Facebook, outro com postagens do Instagram e o terceiro com postagens do Twitter. O resultado final do notebook *"Gera-planilha-matriz"* é uma planilha que junta as informações dos três arquivos com as métricas solicitadas pela entidade financiadora da organização. 
+O primeiro notebook, chamado de *"Gera-planilha-matriz"* faz a limpeza e a organização dos dados. Ele recebe como entrada 3 arquivos xlsx: um com postagens do Facebook, outro com postagens do Instagram e o terceiro com postagens do Twitter. Todos eles previamente etiquetados e classificados, como mencionado anteriormente. O resultado final do notebook *"Gera-planilha-matriz"* é uma única planilha que junta as informações dos três arquivos com as métricas solicitadas pela entidade financiadora da organização. 
 
 
 o que gera uma planilha matriz com todas as postagens do Face, Insta e Twitter e e o outro é o que escreve os dados no Gspread.
