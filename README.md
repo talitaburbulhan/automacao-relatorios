@@ -19,15 +19,15 @@ Outra fragilidade do projeto é que nem todas as mídias foram contempladas, fic
 
 👉🏼 Em síntese, sabe aqueles 10 minutinhos que citei ali em cima? O resultado deles, na prática, é um compilado no Google spreadsheet das postagens mensais do Face, Insta e Twitter, organizado de acordo com parâmetros da entidade financiadora da organização. 
 
-## Antes de rodar os notebooks
+## 💪🏼 Braço para que te quero: tarefas manuais que suscedem a automação 
 
-Antes de subir as bases para o notebook, as etapas manuais são: 
+Antes de partir para a automação, estas são as tarefas que precisam ser feitas previamente para que os notebooks possam rodar:
 
-EXTRAÇÃO DAS BASES DA BUFFER (foto). Para cada mídia (Facebook, Instagram, Twitter) há uma tabela.
+📈 Extração das bases na platforma Buffer. Para cada mídia (Facebook, Instagram, Twitter) há uma tabela.
 
-TAGUEAMENTO MANUAL (foto). Em cada uma das tabelas são criadas duas novas colunas, uma de etiqueta e outra de classificação. A de etiqueta serve para especificar cada um dos posts e a de classificação para indicar em qual local da planilha da entidade financiadora a postagem deve estar alocada.
+🏷 Tagueamento. Em cada uma das tabelas são criadas duas novas colunas, uma de etiqueta e outra de classificação. A de etiqueta serve para especificar cada um dos posts e a de classificação para indicar em qual local da planilha da entidade financiadora a postagem deve estar alocada.
 
-CHECAGEM COLUNAS (foto). Não raro, algumas linhas das bases geradas pela Buffer aparecem desalinhas em relação às demais. Isso precisa ser corrigido para que, na etapa seguinte, o código rode sem erros. 
+✅ Observações alinhadas. Não raro, algumas linhas das bases geradas pela Buffer aparecem desalinhas em relação às demais. Isso precisa ser corrigido para que, na etapa seguinte, o código possa rodar sem erros. 
 
 
 ## O que você vai encontrar nesse repositório?
@@ -42,3 +42,8 @@ Um link para a tabela do Google spreadsheet que contém o compilados das postage
 
 
 ## Bibliotecas utilizadas
+
+## FIM
+
+Este projeto é o trabalho final desenvolvido para a primeira formação do Master de Jornalismo de Dados, Automação e Data Storytelling do Insper. Um agradecimento especial para Turicas, Pedro BUrgos e Cuducos, pela paciência e pela ajuda no desenvolvimentos dos códigos. 
+
