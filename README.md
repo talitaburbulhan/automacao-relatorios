@@ -19,11 +19,11 @@ Outra fragilidade do projeto é que nem todas as mídias foram contempladas, fic
 
 👉🏼 EM SÍNTESE: sabe aqueles 10 minutinhos que citei ali em cima? O resultado deles, na prática, é um compilado no Google spreadsheet das postagens mensais do Face, Insta e Twitter, estruturado de acordo com parâmetros do relatório oficial de mídias sociais, que periodicamente é enviado para a entidade que financia os projetos da minha organização.
 
-Uma prévia da aparência do relatório oficial:
+Uma prévia da aparência do relatório oficial, você confere no vídeo:
 
 https://user-images.githubusercontent.com/89229665/149402860-2b4f5f35-35a7-4595-8a53-15b45b15255e.mp4
 
-Note que ele é uma formado por uma ordem de planilhas série de planilhas 
+👆🏼 Essa é a planilha oficial que é preenchida manualmente. Note que ela é formada por uma série de sub-planilhas com uma ordem definida, uma abaixo da outra. A automação descrita neste repositório consegue reproduzir parcialmente o que se vê no vídeo. Parcialmente devido a dois aspectos. Primeiro: a aumatomação gera as informações apenas das postagens do Facebook, Instagram e Twitter. Segundo: a planilha gerada pela automação possui uma formatação mais simples do que a da planilha original.        
 
 ## Tarefas manuais que precedem a automação 
 
