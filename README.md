@@ -1,9 +1,9 @@
 # automacao-relatorios
 
-## Olá! 
+## 🖐🏼 Olá! 
 
-🤔 Antes de qualquer explicação sobre do que se trata esse repositório, uma pergunta: __você já teve que gastar horas e horas de trabalho preenchendo planilhas manualmente?__ 
-Se sim, provavelmente isso aconteceu há muito tempo, não é? Afinal se você está no Github alguma carta na manga de programação você deve ter guardada aí.
+Antes de qualquer explicação sobre do que se trata esse repositório, uma pergunta: 🤔 __você já teve que gastar horas e horas de trabalho preenchendo planilhas manualmente?__ 
+Se sim, provavelmente isso aconteceu há muito tempo, não é? Afinal, se você está no Github alguma carta na manga de programação você deve ter guardada aí.
 
 Por aqui, na organização onde trabalho, planilhas são preenchidas na base do “copia e cola”, tomando tempo e gerando, literalmente, dores no braço.
 
@@ -17,18 +17,25 @@ Esse repositório contribui em uma única etapa de um processo mais amplo. A ext
 
 Outra fragilidade do projeto é que nem todas as mídias foram contempladas, ficaram de fora as postagens do Youtube e do site. A automação é realizada com dados extraídos da Buffer, uma plataforma que gerencia os perfis da organização no Facebook, no Instagram e no Twitter.
 
-👉🏼 Em síntese, sabe aqueles 10 minutinhos que citei ali em cima? O resultado deles, na prática, é um compilado no Google spreadsheet das postagens mensais do Face, Insta e Twitter, organizado de acordo com parâmetros da entidade financiadora da organização. 
+👉🏼 EM SÍNTESE: sabe aqueles 10 minutinhos que citei ali em cima? O resultado deles, na prática, é um compilado no Google spreadsheet das postagens mensais do Face, Insta e Twitter, organizado de acordo com parâmetros da entidade financiadora da organização. 
 
-## 💪🏼 Braço para que te quero: tarefas manuais que suscedem a automação 
+## Tarefas manuais que precedem a automação 
 
 Antes de partir para a automação, estas são as tarefas que precisam ser feitas previamente para que os notebooks possam rodar:
 
-📈 Extração das bases na platforma Buffer. Para cada mídia (Facebook, Instagram, Twitter) há uma tabela.
+📈 Extração das bases na platforma Buffer. Para cada mídia (Facebook, Instagram, Twitter) é gerada uma tabela, como a desta imagem:
+
+![face-buffer](https://user-images.githubusercontent.com/89229665/149389692-27af644d-7dc5-48c2-bff0-08e76fc64b8f.png)
 
 🏷 Tagueamento. Em cada uma das tabelas são criadas duas novas colunas, uma de etiqueta e outra de classificação. A de etiqueta serve para especificar cada um dos posts e a de classificação para indicar em qual local da planilha da entidade financiadora a postagem deve estar alocada.
 
+![face-buffer-etiquetado](https://user-images.githubusercontent.com/89229665/149391720-54858db8-b007-4952-8f5f-a3f29a5903bc.png)
+
 ✅ Observações alinhadas. Não raro, algumas linhas das bases geradas pela Buffer aparecem desalinhas em relação às demais. Isso precisa ser corrigido para que, na etapa seguinte, o código possa rodar sem erros. 
 
+![tabela-desalinhada](https://user-images.githubusercontent.com/89229665/149392298-6c890164-1b0b-4c12-b97c-6da7555b12c7.png)
+
+Após essas etapas, chega a hora em que a automação 
 
 ## O que você vai encontrar nesse repositório?
 
