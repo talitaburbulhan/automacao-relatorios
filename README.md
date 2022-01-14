@@ -57,7 +57,7 @@ O segundo notebook, chamado de *Escreve-sub_planilhas*, cria planilhas menores a
 
 https://user-images.githubusercontent.com/89229665/149517231-42ea70e2-0b47-4d61-8f02-78c9ddce8601.mp4
 
-Gerados os dados de cada mês, espera-se que a pessoa responsável por criar a completar a planilha ofical de mídias sociais possa utilizá-los para extrair as informações necessárias de forma mais célere.
+Gerados os dados de cada mês, espera-se que a pessoa responsável por completar a planilha ofical de mídias sociais possa utilizá-los para extrair as informações necessárias de forma mais célere.
 
 ## 📚 Bibliotecas utilizadas
 
