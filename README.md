@@ -55,7 +55,7 @@ Gerados os dados de cada mês, espera-se que a pessoa responsável por realizar 
 
 ## 📚 Bibliotecas utilizadas
 
-As principais bibliotecas utilizadas para desevolver esse projeto foram Pandas e GSpread. 
+As principais bibliotecas utilizadas para desevolver esse projeto foram Pandas, GSpread e gspread-formatting. 
 
 ## Tchau, tchau!
 
