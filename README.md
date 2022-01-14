@@ -45,13 +45,17 @@ Após esses procedimentos, os notebooks postados neste repositório entram em a�
 
 ## O que você vai encontrar nesse repositório?
 
-☝🏼 Um arquivo .py, chamado *escreve_subplanilhas.py* que contém o código da função que grava automaticamente as observações da *planilha_matriz* no Google spreadsheet.
+☝🏼 Um arquivo no formato .py, chamado *escreve_subplanilhas.py*, que contém o código da função que grava automaticamente as observações da *planilha_matriz* no Google spreadsheet.
 
 ✌🏼 Dois notebooks comentados que explicam em detalhes os trechos de cada código e as escolhas tomadas. 
 
 O primeiro notebook, chamado de *"Gera-planilha-matriz"*, faz a limpeza e a organização dos dados. Ele recebe como entrada 3 arquivos xlsx: um com postagens do Facebook, outro com postagens do Instagram e o terceiro com postagens do Twitter. Todos eles previamente etiquetados e classificados, como mencionado anteriormente. O resultado final do notebook *"Gera-planilha-matriz"* é uma planilha que junta as informações dos três arquivos e faz um recorte mantendo apenas as colunas que possuem as métricas de interesse da organização.
 
 O segundo notebook, chamado de *Escreve-sub_planilhas*, cria planilhas menores a partir da planilha_matriz. Todas essas planilhas menores são escritas automaticamente, uma em baixo da outra, em uma das abas (worksheets) [desta planilha do Google spreadsheet](https://docs.google.com/spreadsheets/d/1jMikjV_8-L_9SvE4jn49ZxWAT5yTDD9p48oPvYk-AIM/edit#gid=37916203). Até o momento foram geradas planilhas com informações de agosto de 2021, setembro de 2021 e outubro de 2021. O filtro para criar cada sub-planilha são os itens da coluna "item da planilha". 
+
+No vídeo a seguir você confere a execução do notebook *Escreve-sub_planilhas* para as postagens do mês de agosto de 2021:
+
+https://user-images.githubusercontent.com/89229665/149517231-42ea70e2-0b47-4d61-8f02-78c9ddce8601.mp4
 
 Gerados os dados de cada mês, espera-se que a pessoa responsável por realizar o relatório ofical de mídias sociais possa utilizá-los para extrair as informações necessárias de forma mais célere.
 
