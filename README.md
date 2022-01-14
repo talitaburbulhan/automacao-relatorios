@@ -45,6 +45,8 @@ Após esses procedimentos, os notebooks postados neste repositório entram em a�
 
 ## O que você vai encontrar nesse repositório?
 
+☝🏼 Um arquivo .py, chamado *escreve_subplanilhas.py* que contém o código da função que grava automaticamente as observações da *planilha_matriz* no Google spreadsheet.
+
 ✌🏼 Dois notebooks comentados que explicam em detalhes os trechos de cada código e as escolhas tomadas. 
 
 O primeiro notebook, chamado de *"Gera-planilha-matriz"*, faz a limpeza e a organização dos dados. Ele recebe como entrada 3 arquivos xlsx: um com postagens do Facebook, outro com postagens do Instagram e o terceiro com postagens do Twitter. Todos eles previamente etiquetados e classificados, como mencionado anteriormente. O resultado final do notebook *"Gera-planilha-matriz"* é uma planilha que junta as informações dos três arquivos e faz um recorte mantendo apenas as colunas que possuem as métricas de interesse da organização.
