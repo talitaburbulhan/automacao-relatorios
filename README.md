@@ -19,7 +19,7 @@ Outra fragilidade do projeto é que nem todas as mídias foram contempladas, fic
 
 👉🏼 EM SÍNTESE: sabe aqueles 10 minutinhos que citei ali em cima? O resultado deles, na prática, é um compilado no Google spreadsheet das postagens mensais do Face, Insta e Twitter, estruturado de acordo com parâmetros do relatório oficial de mídias sociais, que periodicamente é enviado para a entidade que financia os projetos da minha organização.
 
-Uma prévia da aparência do relatório oficial, você confere no vídeo:
+▶️ Uma prévia da aparência do relatório oficial, você confere no vídeo:
 
 https://user-images.githubusercontent.com/89229665/149402860-2b4f5f35-35a7-4595-8a53-15b45b15255e.mp4
 
@@ -53,7 +53,7 @@ O primeiro notebook, chamado de *"Gera-planilha-matriz"*, faz a limpeza e a orga
 
 O segundo notebook, chamado de *Escreve-sub_planilhas*, cria planilhas menores a partir da planilha_matriz. Todas essas planilhas menores são escritas automaticamente, uma em baixo da outra, em uma das abas (worksheets) [desta planilha do Google spreadsheet](https://docs.google.com/spreadsheets/d/1jMikjV_8-L_9SvE4jn49ZxWAT5yTDD9p48oPvYk-AIM/edit#gid=37916203). Até o momento foram geradas planilhas com informações de agosto de 2021, setembro de 2021 e outubro de 2021. O filtro para criar cada sub-planilha são os itens da coluna "item da planilha". 
 
-No vídeo a seguir você confere a execução do notebook *Escreve-sub_planilhas* para as postagens do mês de agosto de 2021:
+▶️ No vídeo você confere a execução do notebook *Escreve-sub_planilhas* para as postagens do mês de agosto de 2021:
 
 https://user-images.githubusercontent.com/89229665/149517231-42ea70e2-0b47-4d61-8f02-78c9ddce8601.mp4
 
