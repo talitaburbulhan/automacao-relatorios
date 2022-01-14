@@ -13,7 +13,7 @@ Aqui você vai ver como automatizei a limpeza, a organização e a criação de 
 
 __“UHULL, adeus trabalho braçal!”.__ Na verdade, não.
 
-Esse repositório contribui em uma única etapa de um processo mais amplo. A extração dos dados segue sendo feita de forma manual, assim como o tagueamento de cada uma das postagens (mais adiante, eu explico isso melhor). 
+Esse repositório contribui em uma etapa de um processo mais amplo. A extração dos dados segue sendo feita de forma manual, assim como o tagueamento de cada uma das postagens (mais adiante, eu explico isso melhor). 
 
 Outra fragilidade do projeto é que nem todas as mídias foram contempladas, ficaram de fora as postagens do Youtube e do site. A automação é realizada com dados extraídos da Buffer, uma plataforma que gerencia os perfis da organização no Facebook, no Instagram e no Twitter.
 
